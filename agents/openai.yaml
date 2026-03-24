@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lucide Icons Compose Skill"
+  short_description: "Search Lucide icons and generate Compose vectors"
+  default_prompt: "Use $lucide-icons-compose-skill to search a Lucide icon and generate a Jetpack Compose ImageVector into my Kotlin source set."
